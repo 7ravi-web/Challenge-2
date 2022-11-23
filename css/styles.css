@@ -1,0 +1,114 @@
+
+body{
+
+  background-color:hsl(30, 38%, 92%);s
+}
+
+
+h2{
+  display: inline;
+  font-family: [Montserrat](https://fonts.google.com/specimen/Montserrat);
+
+}
+h6{
+  display:inline;
+  color: hsl(158, 36%, 37%);
+  padding:10px auto 10px;
+  font-weight: 400px;
+  font-family:  [Fraunces](https://fonts.google.com/specimen/Fraunces);
+;
+}
+p{
+  display:inline;
+  font-size: 16px;
+  font-family:[Fraunces]  (https://fonts.google.com/specimen/Fraunces);
+  color:  hsl(228, 12%, 48%);
+
+
+
+}
+
+.top-container{
+
+  background-color: ;
+  margin: 10% auto 10%;
+  height: 300px;
+  width:400px;
+}
+
+
+
+.middle-container{
+
+  display:inline-block;
+  position: absolute;
+  width:200px;
+  height: 300px;
+  padding-left: 25px;
+  padding-right: 10px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  text-align: left;
+  line-height: 1.2;
+
+
+
+
+  background-color:hsl(0, 0%, 100%);
+}
+
+.image-container{
+
+  height: 300px;
+  width:200px;
+  display:inline;
+
+}
+.perfume{
+
+
+  height: 300px;
+  width:200px;
+
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+
+
+
+  float: left;}
+
+.price{
+  color: hsl(158, 36%, 37%);
+}
+
+title{
+  color:  hsl(228, 12%, 48%);
+}
+
+.btn {
+  background: #5F8D4E;
+  background-image: -webkit-linear-gradient(top, #5F8D4E, #5F8D4E);
+  background-image: -moz-linear-gradient(top, #5F8D4E, #5F8D4E);
+  background-image: -ms-linear-gradient(top, #5F8D4E, #5F8D4E);
+  background-image: -o-linear-gradient(top, #5F8D4E, #5F8D4E);
+  background-image: linear-gradient(to bottom, #5F8D4E, #5F8D4E);
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 7px;
+  padding: 7px 70px 7px 70px;
+  text-decoration: none;
+  margin: 4px 0 5px 9px;
+}
+
+.btn:hover {
+  background: #A4BE7B;
+  background-image: -webkit-linear-gradient(top, #A4BE7B, #A4BE7B);
+  background-image: -moz-linear-gradient(top, #A4BE7B, #A4BE7B);
+  background-image: -ms-linear-gradient(top, #A4BE7B, #A4BE7B);
+  background-image: -o-linear-gradient(top, #A4BE7B, #A4BE7B);
+  background-image: linear-gradient(to bottom, #A4BE7B, #A4BE7B);
+  text-decoration: none;
+}
